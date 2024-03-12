@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    "^*/.gitignore": true,
+    "=*/.gitignore": true,
+    "=*/.json": true,
+    ".git": false,
+    ".vscode": false,
+    "some": false,
+    "tmp": false,
+    "README.md": false,
+    "att.txt": false
+  }
+}
