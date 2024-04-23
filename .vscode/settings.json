@@ -5,9 +5,12 @@
     "=*/.json": true,
     ".git": false,
     ".vscode": false,
+    "dir": false,
     "some": false,
     "tmp": false,
     "README.md": false,
-    "att.txt": false
+    "att.js": false,
+    "att.txt": false,
+    "please-do-this5555.txt": false
   }
 }
